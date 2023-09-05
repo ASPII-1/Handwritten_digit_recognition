@@ -33,9 +33,3 @@ Result
 
 
 
-
-
-
-![handwritten_2](https://github.com/ASPII-1/Handwritten_digit_recognition/assets/127092718/c5a3f9bb-a0e3-4456-99fd-d6e19de89565)
-
-
